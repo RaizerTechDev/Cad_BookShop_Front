@@ -1,0 +1,60 @@
+:root {
+    --background: #09090a;
+    --dark-600: #1c1c1c;
+    --dark-500: #3e3e41;
+    --dark-400: #27272a;
+    --dark-300: #3f3f46;
+  
+    --white: #ffffff;
+    --white-600: #f0f0f0;
+    --white-400: #ededed;
+  
+    --green-500: #00875f;
+    --green-300: #d0fcc0;
+  
+    --red-500: #f75a68;
+  
+    --grey-300: #c6c6d3;
+    --grey-400: #a1a1aa;
+  
+    --dark-300: #3f3f46;
+    --dark-400: #27272a;
+    --dark-500: #3e3e41;
+    --dark-600: #1c1c1c;
+  }
+  
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    background: #09090a;
+  }
+  
+  body,
+  input,
+  button {
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+  }
+  
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  strong {
+    font-weight: 600;
+  }
+  button {
+    cursor: pointer;
+  }
+  
+  [disabled] {
+    opacity: 0.6;
+    cursor: not-allowed;
+  }
