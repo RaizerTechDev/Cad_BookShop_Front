@@ -4,7 +4,7 @@
 
 # <img src="https://media.giphy.com/media/XwcRflO9HD0Sk6RaRM/giphy.gif" align="center" height="25" width="55"> Venho aqui apresentar <img src="https://media.giphy.com/media/LmqitTYGsNMiWu3VWO/giphy.gif" align="center" width="65">
 
-# <div align="center"> Cad_BookShop_Front
+# <div align="center"> PROJECT-REGISTER-BOOKS
 
 <br>
 
