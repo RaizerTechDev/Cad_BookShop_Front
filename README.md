@@ -16,12 +16,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/eBqEQyWGdgSNgRVLCV/giphy.gif" align="center" height="95" width="95"> Tecnologias
-
----
-
-Continuação do Projeto executado em Front End com as tecnologias:
-
+## <img src="https://media.giphy.com/media/eBqEQyWGdgSNgRVLCV/giphy.gif" align="center" height="95" width="95"> Continuação do Projeto executado em Front End com as tecnologias:
 - [ReactJS](https://reactjs.org/)
 - Vite
 - CSS
