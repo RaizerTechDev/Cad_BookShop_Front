@@ -11,7 +11,7 @@
 ## <div align="center">[Clique aqui para acessar o Projeto](https://rafarz76dev-cadbookshop-react.netlify.app/)
 
 <div align="center">
-<img width="1212" alt="Screen Shot 2022-07-21 at 22 39 08" src="Cad_BookShop_Front.png">
+<img width="1212" alt="Screen Shot 2022-07-21 at 22 39 08" src="public/Cad_BookShop_Readme.png">
  </div>
 
 ---
