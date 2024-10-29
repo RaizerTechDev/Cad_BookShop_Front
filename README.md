@@ -8,7 +8,7 @@
 
 <br>
 
-## <div align="center">[Clique aqui para acessar o Projeto](https://rafarz76dev-cadbookshop-react.netlify.app/)
+## <div align="center">[Clique aqui para acessar o Projeto](https://raizertechdev-cadbook.netlify.app/)
 
 <div align="center">
 <img width="1212" alt="Screen Shot 2022-07-21 at 22 39 08" src="public/Cad_BookShop_Readme.png">
@@ -68,7 +68,7 @@ Conceitos:
 - [LinkedIn](https://www.linkedin.com/in/rafael-raizer/)
 - [Whatsapp](https://api.whatsapp.com/send/?phone=47999327137)
 - [Telegram](https://t.me/RafaRaizer76)
-- [Gmail](mailto:rafaelraizer76@gmail.com)
+- [Gmail](mailto:rafael.dev.raizer@gmail.com)
 
 <br />
 
